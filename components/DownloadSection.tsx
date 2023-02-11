@@ -53,6 +53,7 @@ const DownloadSection = () => {
                   h="24px"
                   mr={5}
                   objectFit="contain"
+                  alt="Windows logo"
                 />
                 <Link
                   href="/ChessApp-win32-x64.rar"
@@ -81,6 +82,7 @@ const DownloadSection = () => {
                   h="24px"
                   mr={5}
                   objectFit="contain"
+                  alt="Apple logo"
                 />
                 <Link
                   href="/ChessApp-macOS.rar"
@@ -110,6 +112,7 @@ const DownloadSection = () => {
                   h="24px"
                   mr={5}
                   objectFit="contain"
+                  alt="Linux logo"
                 />
                 <Link
                   href="/ChessApp-linux-x64.rar"
