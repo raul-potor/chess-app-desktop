@@ -24,7 +24,7 @@ const DownloadSection = () => {
             browser game. At the moment the app runs the default game. Stay
             tuned for future updates.
           </Text>
-          <Image src="/chessgame.jpg" />
+          <Image src="/chessgame.jpg" alt="Chess game image" />
         </Box>
         <Flex
           direction={{ base: "column", md: "column" }}
