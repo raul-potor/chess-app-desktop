@@ -34,7 +34,9 @@ const DownloadSection = () => {
           justifyContent="center"
           alignItems="center"
         >
-          <Text>Choose your platform and download the app:</Text>
+          <Text textAlign="center" fontSize={{ base: "14px", md: "16px" }}>
+            Choose your platform and download the app:
+          </Text>
 
           <Flex direction="column" align="center" gap={5}>
             <Button
